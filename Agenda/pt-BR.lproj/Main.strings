@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "Nome"; ObjectID = "GtT-si-oZf"; */
+"GtT-si-oZf.text" = "Nome";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "M57-Hv-I3X"; */
+"M57-Hv-I3X.title" = " ";
+
+/* Class = "UILabel"; text = "Site"; ObjectID = "T1Y-8B-z4t"; */
+"T1Y-8B-z4t.text" = "Site";
+
+/* Class = "UIButton"; normalTitle = "foto"; ObjectID = "X6G-KS-zIE"; */
+"X6G-KS-zIE.normalTitle" = "foto";
+
+/* Class = "UILabel"; text = "Nota"; ObjectID = "XwS-cr-w58"; */
+"XwS-cr-w58.text" = "Nota";
+
+/* Class = "UINavigationItem"; title = "Agenda"; ObjectID = "aoB-Jw-lAm"; */
+"aoB-Jw-lAm.title" = "Agenda";
+
+/* Class = "UILabel"; text = "Endereço"; ObjectID = "ey5-Fe-tme"; */
+"ey5-Fe-tme.text" = "Endereço";
+
+/* Class = "UILabel"; text = "Telefone"; ObjectID = "fBM-2j-pYa"; */
+"fBM-2j-pYa.text" = "Telefone";
+
+/* Class = "UIButton"; normalTitle = "salvar"; ObjectID = "nrw-az-0aw"; */
+"nrw-az-0aw.normalTitle" = "salvar";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oKL-i4-VS5"; */
+"oKL-i4-VS5.text" = "Label";
